@@ -1,4 +1,4 @@
 # ansible-tutorial
 
-Hello World, this is my git repository!
+Hello People, this is my new git repo!
 
